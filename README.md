@@ -21,19 +21,7 @@ Différentes possibilités existent pour utiliser le pack de mod. Pour chaque po
 - [Sources et détails](https://github.com/HB-Modding-Crew/modlist-fabric-optifine-default/)
 - [Téléchargement en .zip](https://github.com/HB-Modding-Crew/modlist-fabric-optifine-default/releases)
 
-### Instances MultiMC:
-
-#### Version sodium:
-
-- [Sources et détails](https://github.com/HB-Modding-Crew/mmc-instance-fabric-sodium-default/)
-- [Téléchargement en .zip](https://github.com/HB-Modding-Crew/mmc-instance-fabric-sodium-default/releases)
-
-#### Version optifine:
-
-- [Sources et détails](https://github.com/HB-Modding-Crew/mmc-instance-fabric-optifine-default/)
-- [Téléchargement en .zip](https://github.com/HB-Modding-Crew/mmc-instance-fabric-optifine-default/releases)
-
-### Instances CurseForge:
+### Instances CurseForge et MultiMC:
 
 #### Version sodium:
 
