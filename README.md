@@ -21,6 +21,12 @@ Différentes possibilités existent pour utiliser le pack de mod. Pour chaque po
 
 ---
 
+### Listes de mods indépendantes du launcher:
+
+SOON
+
+---
+
 ### Anciennes versions:
 
 #### Version sodium:
